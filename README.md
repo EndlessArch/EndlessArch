@@ -10,7 +10,8 @@
 
 ### My Interesting Project... 👀
 
-[![Interesting Project](https://github-readme-stats.vercel.app/api/pin/?username=endlessarch&repo=arch&theme=tokyonight)](https://github.com/endlessarch/arch)
+[![Interesting Project1](https://github-readme-stats.vercel.app/api/pin/?username=endlessarch&repo=MPA&theme=tokyonight)](https://github.com/endlessarch/MPA)
+[![Interesting Project2](https://github-readme-stats.vercel.app/api/pin/?username=endlessarch&repo=arch&theme=tokyonight)](https://github.com/endlessarch/arch)
 
 <!--
 **EndlessArch/EndlessArch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
