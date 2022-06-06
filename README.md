@@ -8,11 +8,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endlessarch&hide_langs_below=0.5&theme=tokyonight)](#)
 
-### My Interesting Project... 👀
+### My major project... 👀
 
+[![Interesting Project](https://github-readme-stats.vercel.app/api/pin/?username=endlessarch&repo=algebraicpa&theme=tokyonight)](https://github.com/EndlessArch/AlgebraicPA)
+
+<!-- 
 [![Interesting Project1](https://github-readme-stats.vercel.app/api/pin/?username=endlessarch&repo=MPA&theme=tokyonight)](https://github.com/endlessarch/MPA)
 [![Interesting Project2](https://github-readme-stats.vercel.app/api/pin/?username=endlessarch&repo=arch&theme=tokyonight)](https://github.com/endlessarch/arch)
-
+ -->
 <!--
 **EndlessArch/EndlessArch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
