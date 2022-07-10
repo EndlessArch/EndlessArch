@@ -10,7 +10,7 @@
 
 ### My major project... 👀
 
-[![Interesting Project](https://github-readme-stats.vercel.app/api/pin/?username=endlessarch&repo=algebraicpa&theme=tokyonight)](https://github.com/EndlessArch/AlgebraicPA)
+[![Interesting Project](https://github-readme-stats.vercel.app/api/pin/?username=endlessarch&repo=algebraicpa&theme=tokyonight)](https://github.com/EndlessArch/AleA)
 
 <!-- 
 [![Interesting Project1](https://github-readme-stats.vercel.app/api/pin/?username=endlessarch&repo=MPA&theme=tokyonight)](https://github.com/endlessarch/MPA)
